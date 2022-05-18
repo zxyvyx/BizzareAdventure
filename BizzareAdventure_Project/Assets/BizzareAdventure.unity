@@ -136,6 +136,7 @@ GameObject:
   - component: {fileID: 562768121}
   - component: {fileID: 562768120}
   - component: {fileID: 562768119}
+  - component: {fileID: 562768122}
   m_Layer: 0
   m_Name: WarriorCreep
   m_TagString: Untagged
@@ -281,6 +282,25 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!95 &562768122
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 562768116}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 469950cc0e504934eada9b898a8a9c01, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &586379466
 GameObject:
   m_ObjectHideFlags: 0
@@ -294,6 +314,7 @@ GameObject:
   - component: {fileID: 586379469}
   - component: {fileID: 586379468}
   - component: {fileID: 586379467}
+  - component: {fileID: 586379472}
   m_Layer: 0
   m_Name: SkeltCreep
   m_TagString: Untagged
@@ -439,6 +460,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &586379472
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 586379466}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ea480a735d2fa244c8bfbf0acfba8e3e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &894565904
 GameObject:
   m_ObjectHideFlags: 0
@@ -452,6 +492,7 @@ GameObject:
   - component: {fileID: 894565907}
   - component: {fileID: 894565906}
   - component: {fileID: 894565905}
+  - component: {fileID: 894565910}
   m_Layer: 0
   m_Name: WitchCreep
   m_TagString: Untagged
@@ -597,6 +638,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &894565910
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 894565904}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6876a6078c2f7a541aa5a6c6d0cfd392, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &920243095
 GameObject:
   m_ObjectHideFlags: 0
@@ -610,6 +670,7 @@ GameObject:
   - component: {fileID: 920243100}
   - component: {fileID: 920243097}
   - component: {fileID: 920243096}
+  - component: {fileID: 920243101}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -709,7 +770,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 881523689523274655, guid: 51a47ec633b10294c84b4c0d70aeb043, type: 3}
+  m_Sprite: {fileID: -8498854721536680517, guid: 51a47ec633b10294c84b4c0d70aeb043, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -755,6 +816,25 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!95 &920243101
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 920243095}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3238c9295a8e543469f6686b563e6a8a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1177093958
 GameObject:
   m_ObjectHideFlags: 0
@@ -851,6 +931,7 @@ GameObject:
   - component: {fileID: 2030414837}
   - component: {fileID: 2030414836}
   - component: {fileID: 2030414835}
+  - component: {fileID: 2030414840}
   m_Layer: 0
   m_Name: NativeCreep
   m_TagString: Untagged
@@ -996,6 +1077,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &2030414840
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030414834}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e75890ddfb1ba9148ab8994b969e09bc, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2034926490
 GameObject:
   m_ObjectHideFlags: 0
@@ -1009,6 +1109,7 @@ GameObject:
   - component: {fileID: 2034926493}
   - component: {fileID: 2034926492}
   - component: {fileID: 2034926491}
+  - component: {fileID: 2034926496}
   m_Layer: 0
   m_Name: DamagedCreep
   m_TagString: Untagged
@@ -1154,3 +1255,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &2034926496
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2034926490}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9603481c5f6fe6345aa286e56a299996, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
