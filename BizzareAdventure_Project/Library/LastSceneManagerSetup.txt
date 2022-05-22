@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/BizzareAdventure.unity
+- path: Assets/Scenes/BizzareAdventure.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
