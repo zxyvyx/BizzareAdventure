@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Map
+  - Enemy
+  - Nest
+  - Hole
   layers:
   - Default
   - TransparentFX
@@ -39,7 +43,7 @@ TagManager:
   - 
   m_SortingLayers:
   - name: Map
-    uniqueID: 471309949
+    uniqueID: 2343266511
     locked: 0
   - name: Default
     uniqueID: 0

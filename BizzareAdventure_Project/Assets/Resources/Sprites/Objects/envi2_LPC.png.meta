@@ -1,64 +1,67 @@
 fileFormatVersion: 2
-guid: 1eeb0b0e581639a4c8a4f814e6f88654
+guid: 598c0ece4daf45e4ebeb447416f91661
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8555345526181502084
-    second: envi2_LPC_0
+      213: 629446916136987147
+    second: Effect_LPC_0
   - first:
-      213: -6492362525055043971
-    second: envi2_LPC_1
+      213: 5746701858590382085
+    second: Effect_LPC_1
   - first:
-      213: -5083572132430961190
-    second: envi2_LPC_2
+      213: 6110504410408847045
+    second: Effect_LPC_2
   - first:
-      213: -5635923617206119544
-    second: envi2_LPC_3
+      213: 4126431505360869476
+    second: Effect_LPC_3
   - first:
-      213: -8077807992384219254
-    second: envi2_LPC_4
+      213: -4814689926394310776
+    second: Effect_LPC_4
   - first:
-      213: 5705202270469465322
-    second: envi2_LPC_5
+      213: 8033173120844992641
+    second: Effect_LPC_5
   - first:
-      213: 2251334223653020547
-    second: envi2_LPC_6
+      213: 1606770878168181549
+    second: Effect_LPC_6
   - first:
-      213: -2019233273168281654
-    second: envi2_LPC_7
+      213: -218635804764664058
+    second: Effect_LPC_7
   - first:
-      213: -3125750243917836334
-    second: envi2_LPC_8
+      213: -346478260041127107
+    second: Effect_LPC_8
   - first:
-      213: 9074699471721263142
-    second: envi2_LPC_9
+      213: 3400204135555283425
+    second: Effect_LPC_9
   - first:
-      213: 2269655102586829006
-    second: envi2_LPC_10
+      213: -351400714501618718
+    second: Effect_LPC_10
   - first:
-      213: -733755537375491754
-    second: envi2_LPC_11
+      213: -7894676959090022222
+    second: Effect_LPC_11
   - first:
-      213: -3050460366918384771
-    second: envi2_LPC_12
+      213: 2605043009545602200
+    second: Effect_LPC_12
   - first:
-      213: 2032921175106329259
-    second: envi2_LPC_13
+      213: -954276802007754484
+    second: Effect_LPC_13
   - first:
-      213: 6734209143427204993
-    second: envi2_LPC_14
+      213: -5874722352805928564
+    second: Effect_LPC_14
   - first:
-      213: 5306339518686075727
-    second: envi2_LPC_15
+      213: 2115131835434298679
+    second: Effect_LPC_15
   - first:
-      213: -6808160862553527247
-    second: envi2_LPC_16
+      213: 1493756581283184801
+    second: Effect_LPC_16
   - first:
-      213: 4230427375365061544
-    second: envi2_LPC_17
+      213: 339758984536588953
+    second: Effect_LPC_17
   - first:
-      213: -9209364258750525658
-    second: envi2_LPC_18
+      213: -770802859025830634
+    second: Effect_LPC_18
+  - first:
+      213: -6952463364656770397
+    second: Effect_LPC_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -80,7 +83,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -89,7 +91,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -103,7 +105,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -112,17 +114,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -134,7 +133,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -145,8 +144,8 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 1024
+    buildTarget: Android
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -160,13 +159,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: envi2_LPC_0
+      name: Effect_LPC_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
+        x: 5
+        y: 101
+        width: 23
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c736935729e454980800000000000000
-      internalID: -8555345526181502084
+      spriteID: b0a6f41a2ae3cb800800000000000000
+      internalID: 629446916136987147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi2_LPC_1
+      name: Effect_LPC_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
+        x: 36
+        y: 100
+        width: 23
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7639057eae76e5a0800000000000000
-      internalID: -6492362525055043971
+      spriteID: 5c680ece26fdcc450800000000000000
+      internalID: 6110504410408847045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi2_LPC_2
+      name: Effect_LPC_3
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
+        x: 70
+        y: 99
+        width: 21
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad5a06854168379b0800000000000000
-      internalID: -5083572132430961190
+      spriteID: 468d3036797044930800000000000000
+      internalID: 4126431505360869476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi2_LPC_3
+      name: Effect_LPC_4
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
+        x: 100
+        y: 100
+        width: 24
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +236,125 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 883d13f945d29c1b0800000000000000
-      internalID: -5635923617206119544
+      spriteID: 88f8d917509ce2db0800000000000000
+      internalID: -4814689926394310776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi2_LPC_4
+      name: Effect_LPC_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 98
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1809e2f44609b7f60800000000000000
+      internalID: 8033173120844992641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 70
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b28a4c9956c4610800000000000000
+      internalID: 1606770878168181549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 70
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f02d9d4ef37fcf0800000000000000
+      internalID: -218635804764664058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b6ad3bbdf013bf0800000000000000
+      internalID: -346478260041127107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9369f65a3ff2f20800000000000000
+      internalID: 3400204135555283425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_10
       rect:
         serializedVersion: 2
         x: 128
-        y: 96
+        y: 65
         width: 32
-        height: 32
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,224 +362,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a879022dd6cd5ef80800000000000000
-      internalID: -8077807992384219254
+      spriteID: 2e3005679e29f1bf0800000000000000
+      internalID: -351400714501618718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi2_LPC_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae4a51fcc33fc2f40800000000000000
-      internalID: 5705202270469465322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_6
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 383a48f5c885e3f10800000000000000
-      internalID: 2251334223653020547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_7
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: acfb722590e3af3e0800000000000000
-      internalID: -2019233273168281654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_8
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2dfcfaec6ba1f94d0800000000000000
-      internalID: -3125750243917836334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_9
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 620fe57f61fcfed70800000000000000
-      internalID: 9074699471721263142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec837586a4f6f7f10800000000000000
-      internalID: 2269655102586829006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_11
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65902c2f93d21d5f0800000000000000
-      internalID: -733755537375491754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_12
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d730c6455769aa5d0800000000000000
-      internalID: -3050460366918384771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_13
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: baa1592b903663c10800000000000000
-      internalID: 2032921175106329259
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_14
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1878a2d5987b47d50800000000000000
-      internalID: 6734209143427204993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi2_LPC_15
+      name: Effect_LPC_11
       rect:
         serializedVersion: 2
         x: 0
@@ -489,14 +383,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4b96e49da7e3a940800000000000000
-      internalID: 5306339518686075727
+      spriteID: 2b86afc2229707290800000000000000
+      internalID: -7894676959090022222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi2_LPC_16
+      name: Effect_LPC_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8948498a0d8f62420800000000000000
+      internalID: 2605043009545602200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_13
       rect:
         serializedVersion: 2
         x: 32
@@ -510,14 +425,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13ca7c544cd8481a0800000000000000
-      internalID: -6808160862553527247
+      spriteID: c099ee6fd4ab1c2f0800000000000000
+      internalID: -954276802007754484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi2_LPC_17
+      name: Effect_LPC_14
       rect:
         serializedVersion: 2
         x: 64
@@ -531,14 +446,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8abf8bcb84f75ba30800000000000000
-      internalID: 4230427375365061544
+      spriteID: c81a4fe452bc87ea0800000000000000
+      internalID: -5874722352805928564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi2_LPC_18
+      name: Effect_LPC_15
       rect:
         serializedVersion: 2
         x: 96
@@ -552,8 +467,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62f0ffdfff3c13080800000000000000
-      internalID: -9209364258750525658
+      spriteID: 73d6e28a2357a5d10800000000000000
+      internalID: 2115131835434298679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0494842b3eab410800000000000000
+      internalID: 1493756581283184801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9920d8e0ff017b400800000000000000
+      internalID: 339758984536588953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61de8e332ee8d45f0800000000000000
+      internalID: -770802859025830634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_LPC_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 37
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a257b3d763e38f90800000000000000
+      internalID: -6952463364656770397
       vertices: []
       indices: 
       edges: []

@@ -1,364 +1,364 @@
 fileFormatVersion: 2
-guid: b7ff56d9bc15a4a488349aba146e149b
+guid: 11312e361a157a248bdf8db69d1145e1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8819626266199642217
-    second: envi1_GFX_0
+      213: 4287229812829640839
+    second: Effect_GFX_0
   - first:
-      213: 4323945248673749933
-    second: envi1_GFX_1
+      213: 17963623192856842
+    second: Effect_GFX_1
   - first:
-      213: -4621463398682903393
-    second: envi1_GFX_2
+      213: 1278018621090471747
+    second: Effect_GFX_2
   - first:
-      213: 3429662173916829363
-    second: envi1_GFX_3
+      213: -2509313918146192203
+    second: Effect_GFX_3
   - first:
-      213: -1531603552493753968
-    second: envi1_GFX_4
+      213: -7147129370186493295
+    second: Effect_GFX_4
   - first:
-      213: 8525685148617659554
-    second: envi1_GFX_5
+      213: 26532581463364196
+    second: Effect_GFX_5
   - first:
-      213: -5223300608688702891
-    second: envi1_GFX_6
+      213: -230889441292462207
+    second: Effect_GFX_6
   - first:
-      213: 6928996880171982122
-    second: envi1_GFX_7
+      213: -2667987860792444222
+    second: Effect_GFX_7
   - first:
-      213: -8422133143728698154
-    second: envi1_GFX_8
+      213: 6841509265186180383
+    second: Effect_GFX_8
   - first:
-      213: -6898344070028516230
-    second: envi1_GFX_9
+      213: -5343654183971274952
+    second: Effect_GFX_9
   - first:
-      213: -1954336170493971936
-    second: envi1_GFX_10
+      213: 6480621225928093589
+    second: Effect_GFX_10
   - first:
-      213: 830713462560607483
-    second: envi1_GFX_11
+      213: -2009110424345020949
+    second: Effect_GFX_11
   - first:
-      213: 1548155069183487643
-    second: envi1_GFX_12
+      213: 8422436971296960812
+    second: Effect_GFX_12
   - first:
-      213: -541137843884428191
-    second: envi1_GFX_13
+      213: -2504041655461314469
+    second: Effect_GFX_13
   - first:
-      213: -7876139717559186293
-    second: envi1_GFX_14
+      213: 787815933464695182
+    second: Effect_GFX_14
   - first:
-      213: -3344760878393685065
-    second: envi1_GFX_15
+      213: -1477762482510671734
+    second: Effect_GFX_15
   - first:
-      213: 2396234439074427368
-    second: envi1_GFX_16
+      213: 8084728600830311076
+    second: Effect_GFX_16
   - first:
-      213: 1270877094274208059
-    second: envi1_GFX_17
+      213: -8802039352808658959
+    second: Effect_GFX_17
   - first:
-      213: 704785964259927514
-    second: envi1_GFX_18
+      213: 8902611756523522225
+    second: Effect_GFX_18
   - first:
-      213: -4506786770580884569
-    second: envi1_GFX_19
+      213: -7569265621695787756
+    second: Effect_GFX_19
   - first:
-      213: 1264898398796235301
-    second: envi1_GFX_20
+      213: 5902639727772633075
+    second: Effect_GFX_20
   - first:
-      213: -8891647719978973656
-    second: envi1_GFX_21
+      213: 358441451113432950
+    second: Effect_GFX_21
   - first:
-      213: -529760480942675978
-    second: envi1_GFX_22
+      213: -6463447024847030014
+    second: Effect_GFX_22
   - first:
-      213: 7427556788937685726
-    second: envi1_GFX_23
+      213: -6558666317434278435
+    second: Effect_GFX_23
   - first:
-      213: 337856780135164612
-    second: envi1_GFX_24
+      213: 7679071069600715947
+    second: Effect_GFX_24
   - first:
-      213: 7256335961061017313
-    second: envi1_GFX_25
+      213: 8823350654323507700
+    second: Effect_GFX_25
   - first:
-      213: -2138753415531867238
-    second: envi1_GFX_26
+      213: -3676101887035926975
+    second: Effect_GFX_26
   - first:
-      213: -4265451598135756784
-    second: envi1_GFX_27
+      213: -6220227700621649997
+    second: Effect_GFX_27
   - first:
-      213: 5088845058796003580
-    second: envi1_GFX_28
+      213: 5423140769498507748
+    second: Effect_GFX_28
   - first:
-      213: -2649424024216805743
-    second: envi1_GFX_29
+      213: -6101328433574269106
+    second: Effect_GFX_29
   - first:
-      213: 6045041352276089793
-    second: envi1_GFX_30
+      213: -3880498335360766302
+    second: Effect_GFX_30
   - first:
-      213: 2542276544377195942
-    second: envi1_GFX_31
+      213: -1884253795853466977
+    second: Effect_GFX_31
   - first:
-      213: -5604957311046390931
-    second: envi1_GFX_32
+      213: -6404435572315143359
+    second: Effect_GFX_32
   - first:
-      213: -2932807701910816070
-    second: envi1_GFX_33
+      213: 8380495231983058536
+    second: Effect_GFX_33
   - first:
-      213: -8935704750341860033
-    second: envi1_GFX_34
+      213: 7745800847905995167
+    second: Effect_GFX_34
   - first:
-      213: 7877950752592626171
-    second: envi1_GFX_35
+      213: 5683653381261015978
+    second: Effect_GFX_35
   - first:
-      213: 2961218897440790010
-    second: envi1_GFX_36
+      213: 3503501505000763697
+    second: Effect_GFX_36
   - first:
-      213: 4900224910802522307
-    second: envi1_GFX_37
+      213: -331056558749903009
+    second: Effect_GFX_37
   - first:
-      213: 7378745715702736239
-    second: envi1_GFX_38
+      213: 8588484733035456631
+    second: Effect_GFX_38
   - first:
-      213: -9204100313843185698
-    second: envi1_GFX_39
+      213: -1336999551979590318
+    second: Effect_GFX_39
   - first:
-      213: 1191756355963358893
-    second: envi1_GFX_40
+      213: 6528101666032713163
+    second: Effect_GFX_40
   - first:
-      213: -3578133927282380345
-    second: envi1_GFX_41
+      213: -2789982275558412777
+    second: Effect_GFX_41
   - first:
-      213: 7963534665644726734
-    second: envi1_GFX_42
+      213: 2018329377008901607
+    second: Effect_GFX_42
   - first:
-      213: -9106994973268401767
-    second: envi1_GFX_43
+      213: 6254518222208130565
+    second: Effect_GFX_45
   - first:
-      213: 8053959214914358734
-    second: envi1_GFX_45
+      213: -6131124763988961579
+    second: Effect_GFX_46
   - first:
-      213: -7443732042844115971
-    second: envi1_GFX_46
+      213: 7699192018911254982
+    second: Effect_GFX_47
   - first:
-      213: -3051465747689129649
-    second: envi1_GFX_47
+      213: 8402325791750453806
+    second: Effect_GFX_48
   - first:
-      213: -1384632405878186933
-    second: envi1_GFX_48
+      213: 6151713104045709302
+    second: Effect_GFX_49
   - first:
-      213: 5485401675128387022
-    second: envi1_GFX_49
+      213: -1961712126271900110
+    second: Effect_GFX_50
   - first:
-      213: 193159262150223236
-    second: envi1_GFX_50
+      213: -3845146978662231067
+    second: Effect_GFX_51
   - first:
-      213: -191444853964806938
-    second: envi1_GFX_51
+      213: -2816805808027101835
+    second: Effect_GFX_52
   - first:
-      213: 2553916017626132352
-    second: envi1_GFX_52
+      213: 9173571147607511130
+    second: Effect_GFX_53
   - first:
-      213: 5451251398546998792
-    second: envi1_GFX_53
+      213: -7145987972809552221
+    second: Effect_GFX_54
   - first:
-      213: 5519311760352542157
-    second: envi1_GFX_54
+      213: -4634487485249397842
+    second: Effect_GFX_55
   - first:
-      213: -3038852719985077650
-    second: envi1_GFX_55
+      213: 9014670599298685206
+    second: Effect_GFX_56
   - first:
-      213: 7187501928121032556
-    second: envi1_GFX_56
+      213: 7359314951604146477
+    second: Effect_GFX_57
   - first:
-      213: 2410725035897215964
-    second: envi1_GFX_57
+      213: -199707664068225339
+    second: Effect_GFX_58
   - first:
-      213: 6186602095779579768
-    second: envi1_GFX_58
+      213: -3175412753117727563
+    second: Effect_GFX_59
   - first:
-      213: -8378449530072659970
-    second: envi1_GFX_61
+      213: -5335336128385597731
+    second: Effect_GFX_61
   - first:
-      213: -87696431113261133
-    second: envi1_GFX_62
+      213: 8418880280986971713
+    second: Effect_GFX_62
   - first:
-      213: -8466006354102825103
-    second: envi1_GFX_63
+      213: -2218071232956095802
+    second: Effect_GFX_63
   - first:
-      213: -5470593566192463277
-    second: envi1_GFX_64
+      213: 6233962312282182724
+    second: Effect_GFX_79
   - first:
-      213: 1979151393183429888
-    second: envi1_GFX_65
+      213: -3598935489695301692
+    second: Effect_GFX_81
   - first:
-      213: 224649571978816494
-    second: envi1_GFX_67
+      213: 6410650061632749064
+    second: Effect_GFX_83
   - first:
-      213: 3504740645825100304
-    second: envi1_GFX_69
+      213: 4298696616785015163
+    second: Effect_GFX_85
   - first:
-      213: -1129586239926373670
-    second: envi1_GFX_71
+      213: 4627264203876958071
+    second: Effect_GFX_87
   - first:
-      213: -1341046931972664682
-    second: envi1_GFX_73
+      213: -4288502309614669952
+    second: Effect_GFX_89
   - first:
-      213: 3394728975447238839
-    second: envi1_GFX_75
+      213: -3147126128145974001
+    second: Effect_GFX_91
   - first:
-      213: -4471917005525373567
-    second: envi1_GFX_77
+      213: -1756236580160055500
+    second: Effect_GFX_93
   - first:
-      213: -1106059882496696602
-    second: envi1_GFX_95
+      213: 3521511835121364410
+    second: Effect_GFX_110
   - first:
-      213: -21413671296673585
-    second: envi1_GFX_97
+      213: 4365183456918796965
+    second: Effect_GFX_112
   - first:
-      213: -2183035822893379106
-    second: envi1_GFX_99
+      213: 2741842759882840607
+    second: Effect_GFX_114
   - first:
-      213: -3715848847504941355
-    second: envi1_GFX_101
+      213: 3903445692012016687
+    second: Effect_GFX_116
   - first:
-      213: 5955941316594876228
-    second: envi1_GFX_103
+      213: -2360183064959432735
+    second: Effect_GFX_118
   - first:
-      213: 840243161380578920
-    second: envi1_GFX_105
+      213: 2319182879114190403
+    second: Effect_GFX_120
   - first:
-      213: 1928399131724881571
-    second: envi1_GFX_107
+      213: -588998814387862936
+    second: Effect_GFX_122
   - first:
-      213: 5901285623099227309
-    second: envi1_GFX_108
+      213: -1081750601609199030
+    second: Effect_GFX_123
   - first:
-      213: -342994022577824838
-    second: envi1_GFX_125
+      213: 8631421577494828618
+    second: Effect_GFX_131
   - first:
-      213: -3666113808496961087
-    second: envi1_GFX_127
+      213: -3648888175907467037
+    second: Effect_GFX_133
   - first:
-      213: 937216938032403514
-    second: envi1_GFX_128
+      213: -3145614174556821192
+    second: Effect_GFX_135
   - first:
-      213: -5314170024838491882
-    second: envi1_GFX_130
+      213: 3236082089720686898
+    second: Effect_GFX_137
   - first:
-      213: -1103327869112866873
-    second: envi1_GFX_135
+      213: 5607105114432549789
+    second: Effect_GFX_139
   - first:
-      213: 6448019324850497851
-    second: envi1_GFX_137
+      213: -4531729624208054776
+    second: Effect_GFX_141
   - first:
-      213: 1457256508573269375
-    second: envi1_GFX_143
+      213: 6512894712002442808
+    second: Effect_GFX_143
   - first:
-      213: -2597504652749017507
-    second: envi1_GFX_145
+      213: 668772998369586098
+    second: Effect_GFX_145
   - first:
-      213: -6773885892429914146
-    second: envi1_GFX_147
+      213: -7075833589083064236
+    second: Effect_GFX_157
   - first:
-      213: 3246192952460324680
-    second: envi1_GFX_149
+      213: -2088879666550182931
+    second: Effect_GFX_158
   - first:
-      213: 1741219822119776919
-    second: envi1_GFX_150
+      213: 4319025382415176073
+    second: Effect_GFX_160
   - first:
-      213: -2007363089594307543
-    second: envi1_GFX_152
+      213: 1508047584655219516
+    second: Effect_GFX_162
   - first:
-      213: -5374632689097660651
-    second: envi1_GFX_154
+      213: 677003626717617900
+    second: Effect_GFX_164
   - first:
-      213: -5327864417256071405
-    second: envi1_GFX_157
+      213: -4363749953996118048
+    second: Effect_GFX_166
   - first:
-      213: -7589468522415990018
-    second: envi1_GFX_162
+      213: 5940361114223320776
+    second: Effect_GFX_168
   - first:
-      213: 9190332758478187477
-    second: envi1_GFX_164
+      213: 2654286098520585683
+    second: Effect_GFX_173
   - first:
-      213: 6386694547788083736
-    second: envi1_GFX_173
+      213: 5824337092069062843
+    second: Effect_GFX_178
   - first:
-      213: 1498875057567009655
-    second: envi1_GFX_174
+      213: 7375156641654505325
+    second: Effect_GFX_179
   - first:
-      213: -5613159753534509682
-    second: envi1_GFX_178
+      213: -8402005804467645941
+    second: Effect_GFX_180
   - first:
-      213: -2048680842832507124
-    second: envi1_GFX_179
+      213: -5240039819185184717
+    second: Effect_GFX_181
   - first:
-      213: 4497616118560342924
-    second: envi1_GFX_180
+      213: 2377491899874414303
+    second: Effect_GFX_182
   - first:
-      213: 7259204902367032970
-    second: envi1_GFX_181
+      213: 4043011288382762203
+    second: Effect_GFX_183
   - first:
-      213: -5376231431755624737
-    second: envi1_GFX_182
+      213: 8629564694678317385
+    second: Effect_GFX_185
   - first:
-      213: -5873408014305765542
-    second: envi1_GFX_183
+      213: 1843986603621162305
+    second: Effect_GFX_186
   - first:
-      213: 9026203569294631200
-    second: envi1_GFX_185
+      213: 443581739935757691
+    second: Effect_GFX_189
   - first:
-      213: 2493480634883920991
-    second: envi1_GFX_189
+      213: 7990242405185029820
+    second: Effect_GFX_190
   - first:
-      213: 6889918651042759578
-    second: envi1_GFX_194
+      213: 286651298650192957
+    second: Effect_GFX_194
   - first:
-      213: 6178914114037243853
-    second: envi1_GFX_195
+      213: 1683368823923326152
+    second: Effect_GFX_195
   - first:
-      213: 4954776052381475212
-    second: envi1_GFX_196
+      213: 5541369751284266291
+    second: Effect_GFX_196
   - first:
-      213: 1122599310721668090
-    second: envi1_GFX_197
+      213: 4214547100221224223
+    second: Effect_GFX_197
   - first:
-      213: -8626995835722752486
-    second: envi1_GFX_198
+      213: 1390246018082337968
+    second: Effect_GFX_198
   - first:
-      213: 7945535755873362669
-    second: envi1_GFX_199
+      213: -7588692966203795988
+    second: Effect_GFX_199
   - first:
-      213: -3599435290395050983
-    second: envi1_GFX_201
+      213: 6305881718489902306
+    second: Effect_GFX_201
   - first:
-      213: 5359724908874208775
-    second: envi1_GFX_202
+      213: 4204067994700305111
+    second: Effect_GFX_202
   - first:
-      213: 1846791963032150841
-    second: envi1_GFX_203
+      213: -8637203824250780700
+    second: Effect_GFX_203
   - first:
-      213: 172045203113280199
-    second: envi1_GFX_204
+      213: -6500732837124946492
+    second: Effect_GFX_204
   - first:
-      213: -5785786679114163647
-    second: envi1_GFX_205
+      213: 9158765618190349760
+    second: Effect_GFX_205
   - first:
-      213: 1252394683686552364
-    second: envi1_GFX_206
+      213: -4976662450803549451
+    second: Effect_GFX_221
   - first:
-      213: 3621945967502437492
-    second: envi1_GFX_221
+      213: -7109613854323384870
+    second: Effect_GFX_237
   - first:
-      213: 876406056907167010
-    second: envi1_GFX_237
+      213: 965837692846659676
+    second: Effect_GFX_253
   - first:
-      213: -9048270865087705658
-    second: envi1_GFX_253
+      213: 8918460739060807082
+    second: Effect_GFX_269
   - first:
-      213: -8783910887950240935
-    second: envi1_GFX_269
+      213: -5933322089911989325
+    second: Effect_GFX_270
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -380,7 +380,6 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
-  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -412,12 +411,9 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -444,23 +440,11 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: envi1_GFX_0
+      name: Effect_GFX_0
       rect:
         serializedVersion: 2
         x: 0
@@ -474,14 +458,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79f2777a3a46a9580800000000000000
-      internalID: -8819626266199642217
+      spriteID: 788dc20dccc4f7b30800000000000000
+      internalID: 4287229812829640839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_1
+      name: Effect_GFX_1
       rect:
         serializedVersion: 2
         x: 16
@@ -495,14 +479,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dabdf6f5b4db10c30800000000000000
-      internalID: 4323945248673749933
+      spriteID: a090a43f1d1df3000800000000000000
+      internalID: 17963623192856842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_2
+      name: Effect_GFX_2
       rect:
         serializedVersion: 2
         x: 32
@@ -516,14 +500,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9c390346834ddfb0800000000000000
-      internalID: -4621463398682903393
+      spriteID: 34f9e662a2f6cb110800000000000000
+      internalID: 1278018621090471747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_3
+      name: Effect_GFX_3
       rect:
         serializedVersion: 2
         x: 48
@@ -537,14 +521,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b618e7739b989f20800000000000000
-      internalID: 3429662173916829363
+      spriteID: 5bcd3fe49402d2dd0800000000000000
+      internalID: -2509313918146192203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_4
+      name: Effect_GFX_4
       rect:
         serializedVersion: 2
         x: 64
@@ -558,14 +542,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09922ec0fa6aebae0800000000000000
-      internalID: -1531603552493753968
+      spriteID: 192d54674bb40dc90800000000000000
+      internalID: -7147129370186493295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_5
+      name: Effect_GFX_5
       rect:
         serializedVersion: 2
         x: 80
@@ -579,14 +563,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a4dd2eb871515670800000000000000
-      internalID: 8525685148617659554
+      spriteID: 46219150e334e5000800000000000000
+      internalID: 26532581463364196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_6
+      name: Effect_GFX_6
       rect:
         serializedVersion: 2
         x: 96
@@ -600,14 +584,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55a370845cb1387b0800000000000000
-      internalID: -5223300608688702891
+      spriteID: 187df55c647bbccf0800000000000000
+      internalID: -230889441292462207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_7
+      name: Effect_GFX_7
       rect:
         serializedVersion: 2
         x: 112
@@ -621,14 +605,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2dd07c73fdb82060800000000000000
-      internalID: 6928996880171982122
+      spriteID: 2ca796c1d2769fad0800000000000000
+      internalID: -2667987860792444222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_8
+      name: Effect_GFX_8
       rect:
         serializedVersion: 2
         x: 128
@@ -642,14 +626,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6dcc10537829e1b80800000000000000
-      internalID: -8422133143728698154
+      spriteID: f1d47f6cd6ce1fe50800000000000000
+      internalID: 6841509265186180383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_9
+      name: Effect_GFX_9
       rect:
         serializedVersion: 2
         x: 144
@@ -663,14 +647,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7427870e982440a0800000000000000
-      internalID: -6898344070028516230
+      spriteID: 83fbcd1e4d687d5b0800000000000000
+      internalID: -5343654183971274952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_10
+      name: Effect_GFX_10
       rect:
         serializedVersion: 2
         x: 160
@@ -684,14 +668,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02272028b9dc0e4e0800000000000000
-      internalID: -1954336170493971936
+      spriteID: 59fec4f4baacfe950800000000000000
+      internalID: 6480621225928093589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_11
+      name: Effect_GFX_11
       rect:
         serializedVersion: 2
         x: 176
@@ -705,14 +689,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfc4f0e2e79478b00800000000000000
-      internalID: 830713462560607483
+      spriteID: be5716ab6b43e14e0800000000000000
+      internalID: -2009110424345020949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_12
+      name: Effect_GFX_12
       rect:
         serializedVersion: 2
         x: 192
@@ -726,14 +710,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9ee6eb35d62c7510800000000000000
-      internalID: 1548155069183487643
+      spriteID: c21b5492dc182e470800000000000000
+      internalID: 8422436971296960812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_13
+      name: Effect_GFX_13
       rect:
         serializedVersion: 2
         x: 208
@@ -747,14 +731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1647fb08ffd7d78f0800000000000000
-      internalID: -541137843884428191
+      spriteID: b50827f916bdf3dd0800000000000000
+      internalID: -2504041655461314469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_14
+      name: Effect_GFX_14
       rect:
         serializedVersion: 2
         x: 224
@@ -768,14 +752,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8c0a8d08a452b290800000000000000
-      internalID: -7876139717559186293
+      spriteID: e815e8eda62eeea00800000000000000
+      internalID: 787815933464695182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_15
+      name: Effect_GFX_15
       rect:
         serializedVersion: 2
         x: 240
@@ -789,14 +773,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bb88b0d3b50591d0800000000000000
-      internalID: -3344760878393685065
+      spriteID: a805d870adeed7be0800000000000000
+      internalID: -1477762482510671734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_16
+      name: Effect_GFX_16
       rect:
         serializedVersion: 2
         x: 0
@@ -810,14 +794,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e1b69bc682214120800000000000000
-      internalID: 2396234439074427368
+      spriteID: 4aa7ee5e3d9b23070800000000000000
+      internalID: 8084728600830311076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_17
+      name: Effect_GFX_17
       rect:
         serializedVersion: 2
         x: 16
@@ -831,14 +815,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b31156ddbff03a110800000000000000
-      internalID: 1270877094274208059
+      spriteID: 1f7a4d408dfd8d580800000000000000
+      internalID: -8802039352808658959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_18
+      name: Effect_GFX_18
       rect:
         serializedVersion: 2
         x: 32
@@ -852,14 +836,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad5e462b917e7c900800000000000000
-      internalID: 704785964259927514
+      spriteID: 1b80dc8793e6c8b70800000000000000
+      internalID: 8902611756523522225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_19
+      name: Effect_GFX_19
       rect:
         serializedVersion: 2
         x: 48
@@ -873,14 +857,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a3b8156f4da471c0800000000000000
-      internalID: -4506786770580884569
+      spriteID: 41d0f30550194f690800000000000000
+      internalID: -7569265621695787756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_20
+      name: Effect_GFX_20
       rect:
         serializedVersion: 2
         x: 64
@@ -894,14 +878,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 522c5395462dd8110800000000000000
-      internalID: 1264898398796235301
+      spriteID: 3f70ff21f836ae150800000000000000
+      internalID: 5902639727772633075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_21
+      name: Effect_GFX_21
       rect:
         serializedVersion: 2
         x: 80
@@ -915,14 +899,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 826cdb632858a9480800000000000000
-      internalID: -8891647719978973656
+      spriteID: 6774466c99079f400800000000000000
+      internalID: 358441451113432950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_22
+      name: Effect_GFX_22
       rect:
         serializedVersion: 2
         x: 96
@@ -936,14 +920,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f72f5d36a9e5a8f0800000000000000
-      internalID: -529760480942675978
+      spriteID: 209ff6bfc293d46a0800000000000000
+      internalID: -6463447024847030014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_23
+      name: Effect_GFX_23
       rect:
         serializedVersion: 2
         x: 112
@@ -957,14 +941,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edafba1fb8bf31760800000000000000
-      internalID: 7427556788937685726
+      spriteID: ddda20dcbbfeaf4a0800000000000000
+      internalID: -6558666317434278435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_24
+      name: Effect_GFX_24
       rect:
         serializedVersion: 2
         x: 128
@@ -978,14 +962,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cae9e493fe40b400800000000000000
-      internalID: 337856780135164612
+      spriteID: ba4978cc37a819a60800000000000000
+      internalID: 7679071069600715947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_25
+      name: Effect_GFX_25
       rect:
         serializedVersion: 2
         x: 144
@@ -999,14 +983,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e64fe16c1fa3b460800000000000000
-      internalID: 7256335961061017313
+      spriteID: 4f1c9a70ca6d27a70800000000000000
+      internalID: 8823350654323507700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_26
+      name: Effect_GFX_26
       rect:
         serializedVersion: 2
         x: 160
@@ -1020,14 +1004,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a93d115a91f9152e0800000000000000
-      internalID: -2138753415531867238
+      spriteID: 14694118fccdbfcc0800000000000000
+      internalID: -3676101887035926975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_27
+      name: Effect_GFX_27
       rect:
         serializedVersion: 2
         x: 176
@@ -1041,14 +1025,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 018fe7eee521ec4c0800000000000000
-      internalID: -4265451598135756784
+      spriteID: 3b7d66accdf4da9a0800000000000000
+      internalID: -6220227700621649997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_28
+      name: Effect_GFX_28
       rect:
         serializedVersion: 2
         x: 192
@@ -1062,14 +1046,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf0a98e7e953f9640800000000000000
-      internalID: 5088845058796003580
+      spriteID: 4e9a5ecfbcdd24b40800000000000000
+      internalID: 5423140769498507748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_29
+      name: Effect_GFX_29
       rect:
         serializedVersion: 2
         x: 208
@@ -1083,14 +1067,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19edb2123ea5b3bd0800000000000000
-      internalID: -2649424024216805743
+      spriteID: e4fa0daad1ab35ba0800000000000000
+      internalID: -6101328433574269106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_30
+      name: Effect_GFX_30
       rect:
         serializedVersion: 2
         x: 224
@@ -1104,20 +1088,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cb96f6f41d44e350800000000000000
-      internalID: 6045041352276089793
+      spriteID: 2aea351e253b52ac0800000000000000
+      internalID: -3880498335360766302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_31
+      name: Effect_GFX_31
       rect:
         serializedVersion: 2
         x: 240
         y: 272
-        width: 16
-        height: 16
+        width: 13
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1125,14 +1109,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ad096c2c0bf74320800000000000000
-      internalID: 2542276544377195942
+      spriteID: f920977e729c9d5e0800000000000000
+      internalID: -1884253795853466977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_32
+      name: Effect_GFX_32
       rect:
         serializedVersion: 2
         x: 0
@@ -1146,14 +1130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6be9dd95013732b0800000000000000
-      internalID: -5604957311046390931
+      spriteID: 143c74577cfde17a0800000000000000
+      internalID: -6404435572315143359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_33
+      name: Effect_GFX_33
       rect:
         serializedVersion: 2
         x: 16
@@ -1167,14 +1151,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aba731d0fe29c47d0800000000000000
-      internalID: -2932807701910816070
+      spriteID: 86e743003008d4470800000000000000
+      internalID: 8380495231983058536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_34
+      name: Effect_GFX_34
       rect:
         serializedVersion: 2
         x: 32
@@ -1188,14 +1172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f355a1a7fdffdf380800000000000000
-      internalID: -8935704750341860033
+      spriteID: f993b5805dc9e7b60800000000000000
+      internalID: 7745800847905995167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_35
+      name: Effect_GFX_35
       rect:
         serializedVersion: 2
         x: 48
@@ -1209,14 +1193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf10e46687a145d60800000000000000
-      internalID: 7877950752592626171
+      spriteID: aabb28013a460ee40800000000000000
+      internalID: 5683653381261015978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_36
+      name: Effect_GFX_36
       rect:
         serializedVersion: 2
         x: 64
@@ -1230,14 +1214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af5d124e5ec581920800000000000000
-      internalID: 2961218897440790010
+      spriteID: 131fd937e00fe9030800000000000000
+      internalID: 3503501505000763697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_37
+      name: Effect_GFX_37
       rect:
         serializedVersion: 2
         x: 80
@@ -1251,14 +1235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c097e70898110440800000000000000
-      internalID: 4900224910802522307
+      spriteID: f57162750d9d76bf0800000000000000
+      internalID: -331056558749903009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_38
+      name: Effect_GFX_38
       rect:
         serializedVersion: 2
         x: 96
@@ -1272,14 +1256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f65a5685222966660800000000000000
-      internalID: 7378745715702736239
+      spriteID: 778a1776c5d603770800000000000000
+      internalID: 8588484733035456631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_39
+      name: Effect_GFX_39
       rect:
         serializedVersion: 2
         x: 112
@@ -1293,14 +1277,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed7c05ca787744080800000000000000
-      internalID: -9204100313843185698
+      spriteID: 25d666fbdf5027de0800000000000000
+      internalID: -1336999551979590318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_40
+      name: Effect_GFX_40
       rect:
         serializedVersion: 2
         x: 128
@@ -1314,14 +1298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dae82007718f98010800000000000000
-      internalID: 1191756355963358893
+      spriteID: bcdf38db0e9789a50800000000000000
+      internalID: 6528101666032713163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_41
+      name: Effect_GFX_41
       rect:
         serializedVersion: 2
         x: 144
@@ -1335,14 +1319,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c17f81a62ae75ec0800000000000000
-      internalID: -3578133927282380345
+      spriteID: 71e64bff6edf749d0800000000000000
+      internalID: -2789982275558412777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_42
+      name: Effect_GFX_42
       rect:
         serializedVersion: 2
         x: 160
@@ -1356,14 +1340,308 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec95346f598248e60800000000000000
-      internalID: 7963534665644726734
+      spriteID: 7edd954ffdb820c10800000000000000
+      internalID: 2018329377008901607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_43
+      name: Effect_GFX_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e5ceb6f238cc650800000000000000
+      internalID: 6254518222208130565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d656d0e28ed9eaa0800000000000000
+      internalID: -6131124763988961579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c95ab0695609da60800000000000000
+      internalID: 7699192018911254982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a73684ace0b9470800000000000000
+      internalID: 8402325791750453806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f792c699764f5550800000000000000
+      internalID: 6151713104045709302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236bcf9f63996c4e0800000000000000
+      internalID: -1961712126271900110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3dba3023b43aac0800000000000000
+      internalID: -3845146978662231067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575994baa02b8e8d0800000000000000
+      internalID: -2816805808027101835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a501be6ea521f4f70800000000000000
+      internalID: 9173571147607511130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae097fbcc954dc90800000000000000
+      internalID: -7145987972809552221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab57bdcf2efeafb0800000000000000
+      internalID: -4634487485249397842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6191b56f52b8a1d70800000000000000
+      internalID: 9014670599298685206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21169805f9812660800000000000000
+      internalID: 7359314951604146477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c65a4800fe7a3df0800000000000000
+      internalID: -199707664068225339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_59
       rect:
         serializedVersion: 2
         x: 176
@@ -1377,308 +1655,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 991a11f92547d9180800000000000000
-      internalID: -9106994973268401767
+      spriteID: 5b43c23dceaaee3d0800000000000000
+      internalID: -3175412753117727563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_45
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 256
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ecd4478fb3965cf60800000000000000
-      internalID: 8053959214914358734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_46
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 256
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dfb6517452d82b890800000000000000
-      internalID: -7443732042844115971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_47
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 256
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f49b7b0e11407a5d0800000000000000
-      internalID: -3051465747689129649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_48
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4cd227b92cc8cce0800000000000000
-      internalID: -1384632405878186933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_49
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec53c58b2cf002c40800000000000000
-      internalID: 5485401675128387022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_50
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4856a85535d3ea200800000000000000
-      internalID: 193159262150223236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_51
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e4e95d6be9d75df0800000000000000
-      internalID: -191444853964806938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_52
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08f29c83615517320800000000000000
-      internalID: 2553916017626132352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_53
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 806ceb7d34cb6ab40800000000000000
-      internalID: 5451251398546998792
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_54
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dcdf270bdc8889c40800000000000000
-      internalID: 5519311760352542157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_55
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e625f8c3d83d3d5d0800000000000000
-      internalID: -3038852719985077650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_56
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6fd6103ce22fb360800000000000000
-      internalID: 7187501928121032556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_57
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdb5bc7c5ad947120800000000000000
-      internalID: 2410725035897215964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_58
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 240
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87701adf3d93bd550800000000000000
-      internalID: 6186602095779579768
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_61
+      name: Effect_GFX_61
       rect:
         serializedVersion: 2
         x: 208
@@ -1692,14 +1676,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef70b771b84c9bb80800000000000000
-      internalID: -8378449530072659970
+      spriteID: ddeb44e1f0415f5b0800000000000000
+      internalID: -5335336128385597731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_62
+      name: Effect_GFX_62
       rect:
         serializedVersion: 2
         x: 224
@@ -1713,14 +1697,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bfac6f7f8078cef0800000000000000
-      internalID: -87696431113261133
+      spriteID: 14ee4caa20fd5d470800000000000000
+      internalID: 8418880280986971713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_63
+      name: Effect_GFX_63
       rect:
         serializedVersion: 2
         x: 240
@@ -1734,14 +1718,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17f40856314b28a80800000000000000
-      internalID: -8466006354102825103
+      spriteID: 6c2a32927f3d731e0800000000000000
+      internalID: -2218071232956095802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_64
+      name: Effect_GFX_79
       rect:
         serializedVersion: 2
         x: 0
@@ -1755,14 +1739,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3529f80d22c8414b0800000000000000
-      internalID: -5470593566192463277
+      spriteID: 44490cea1bb738650800000000000000
+      internalID: 6233962312282182724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_65
+      name: Effect_GFX_81
       rect:
         serializedVersion: 2
         x: 32
@@ -1776,14 +1760,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 005fa63c4bb577b10800000000000000
-      internalID: 1979151393183429888
+      spriteID: 4cf3a277d330e0ec0800000000000000
+      internalID: -3598935489695301692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_67
+      name: Effect_GFX_83
       rect:
         serializedVersion: 2
         x: 64
@@ -1797,14 +1781,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eebadb0789d1e1300800000000000000
-      internalID: 224649571978816494
+      spriteID: 80eb4f6144437f850800000000000000
+      internalID: 6410650061632749064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_69
+      name: Effect_GFX_85
       rect:
         serializedVersion: 2
         x: 96
@@ -1818,14 +1802,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01a37486c0753a030800000000000000
-      internalID: 3504740645825100304
+      spriteID: b71f4a82cc908ab30800000000000000
+      internalID: 4298696616785015163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_71
+      name: Effect_GFX_87
       rect:
         serializedVersion: 2
         x: 128
@@ -1839,14 +1823,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad2f402bc47e250f0800000000000000
-      internalID: -1129586239926373670
+      spriteID: 77f77f1f648573040800000000000000
+      internalID: 4627264203876958071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_73
+      name: Effect_GFX_89
       rect:
         serializedVersion: 2
         x: 160
@@ -1860,14 +1844,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69254a8abe4a36de0800000000000000
-      internalID: -1341046931972664682
+      spriteID: 08fa9f0fedd2c74c0800000000000000
+      internalID: -4288502309614669952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_75
+      name: Effect_GFX_91
       rect:
         serializedVersion: 2
         x: 192
@@ -1881,14 +1865,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b8224264008c1f20800000000000000
-      internalID: 3394728975447238839
+      spriteID: f0d328ce5792354d0800000000000000
+      internalID: -3147126128145974001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_77
+      name: Effect_GFX_93
       rect:
         serializedVersion: 2
         x: 224
@@ -1902,14 +1886,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18da1ac3d2f80f1c0800000000000000
-      internalID: -4471917005525373567
+      spriteID: 4375302a22890a7e0800000000000000
+      internalID: -1756236580160055500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_95
+      name: Effect_GFX_110
       rect:
         serializedVersion: 2
         x: 0
@@ -1923,14 +1907,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ee5973a56c76a0f0800000000000000
-      internalID: -1106059882496696602
+      spriteID: abd2eb43b5ceed030800000000000000
+      internalID: 3521511835121364410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_97
+      name: Effect_GFX_112
       rect:
         serializedVersion: 2
         x: 32
@@ -1944,14 +1928,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc85601216ce3bff0800000000000000
-      internalID: -21413671296673585
+      spriteID: 5aa7e01f93f349c30800000000000000
+      internalID: 4365183456918796965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_99
+      name: Effect_GFX_114
       rect:
         serializedVersion: 2
         x: 64
@@ -1965,14 +1949,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed1dc7c3c7c44b1e0800000000000000
-      internalID: -2183035822893379106
+      spriteID: f1a1bc4967bfc0620800000000000000
+      internalID: 2741842759882840607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_101
+      name: Effect_GFX_116
       rect:
         serializedVersion: 2
         x: 96
@@ -1986,14 +1970,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5de5c6d1927ae6cc0800000000000000
-      internalID: -3715848847504941355
+      spriteID: f24b760fc23db2630800000000000000
+      internalID: 3903445692012016687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_103
+      name: Effect_GFX_118
       rect:
         serializedVersion: 2
         x: 128
@@ -2007,14 +1991,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44fb5be4211c7a250800000000000000
-      internalID: 5955941316594876228
+      spriteID: 1e74338d102fe3fd0800000000000000
+      internalID: -2360183064959432735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_105
+      name: Effect_GFX_120
       rect:
         serializedVersion: 2
         x: 160
@@ -2028,14 +2012,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8666a0714b429ab00800000000000000
-      internalID: 840243161380578920
+      spriteID: 34ed4ce7a846f2020800000000000000
+      internalID: 2319182879114190403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_107
+      name: Effect_GFX_122
       rect:
         serializedVersion: 2
         x: 192
@@ -2049,14 +2033,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ae12af0bcc03ca10800000000000000
-      internalID: 1928399131724881571
+      spriteID: 862094fe2b473d7f0800000000000000
+      internalID: -588998814387862936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_108
+      name: Effect_GFX_123
       rect:
         serializedVersion: 2
         x: 224
@@ -2070,14 +2054,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dacf2f2020495e150800000000000000
-      internalID: 5901285623099227309
+      spriteID: a42c4872f89dcf0f0800000000000000
+      internalID: -1081750601609199030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_125
+      name: Effect_GFX_131
       rect:
         serializedVersion: 2
         x: 0
@@ -2091,14 +2075,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abb9a24f0c07d3bf0800000000000000
-      internalID: -342994022577824838
+      spriteID: a4698398138f8c770800000000000000
+      internalID: 8631421577494828618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_127
+      name: Effect_GFX_133
       rect:
         serializedVersion: 2
         x: 32
@@ -2112,56 +2096,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c952624ae85f1dc0800000000000000
-      internalID: -3666113808496961087
+      spriteID: 3e099e1698b8c5dc0800000000000000
+      internalID: -3648888175907467037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_128
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 144
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3496ece6d9a10d00800000000000000
-      internalID: 937216938032403514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_130
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 144
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6111971a4864046b0800000000000000
-      internalID: -5314170024838491882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_135
+      name: Effect_GFX_135
       rect:
         serializedVersion: 2
         x: 64
@@ -2175,14 +2117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c72db2162130b0f0800000000000000
-      internalID: -1103327869112866873
+      spriteID: 8396b1d03988854d0800000000000000
+      internalID: -3145614174556821192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_137
+      name: Effect_GFX_137
       rect:
         serializedVersion: 2
         x: 96
@@ -2196,14 +2138,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b396192b967fb7950800000000000000
-      internalID: 6448019324850497851
+      spriteID: 2392ecdd38fd8ec20800000000000000
+      internalID: 3236082089720686898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_143
+      name: Effect_GFX_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d933704d46070dd40800000000000000
+      internalID: 5607105114432549789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806e6fabaef0c11c0800000000000000
+      internalID: -4531729624208054776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_143
       rect:
         serializedVersion: 2
         x: 192
@@ -2217,14 +2201,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7db22cd217393410800000000000000
-      internalID: 1457256508573269375
+      spriteID: 836fc68db33726a50800000000000000
+      internalID: 6512894712002442808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_145
+      name: Effect_GFX_145
       rect:
         serializedVersion: 2
         x: 224
@@ -2238,119 +2222,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5e687ec74fc3fbd0800000000000000
-      internalID: -2597504652749017507
+      spriteID: 2bb213baf75f74900800000000000000
+      internalID: 668772998369586098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_147
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 112
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edf5fa0aba25ef1a0800000000000000
-      internalID: -6773885892429914146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_149
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 112
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84f26cb8a4bcc0d20800000000000000
-      internalID: 3246192952460324680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_150
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 112
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 792715de33e0a2810800000000000000
-      internalID: 1741219822119776919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_152
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 112
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92c208dc7e96424e0800000000000000
-      internalID: -2007363089594307543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_154
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 517a1289b087965b0800000000000000
-      internalID: -5374632689097660651
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_157
+      name: Effect_GFX_157
       rect:
         serializedVersion: 2
         x: 240
@@ -2364,14 +2243,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31f120e6a8f9f06b0800000000000000
-      internalID: -5327864417256071405
+      spriteID: 4583de017d69dcd90800000000000000
+      internalID: -7075833589083064236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_162
+      name: Effect_GFX_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb6db8b20fc203e0800000000000000
+      internalID: -2088879666550182931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98190ceb3b240fb30800000000000000
+      internalID: 4319025382415176073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_162
       rect:
         serializedVersion: 2
         x: 64
@@ -2385,14 +2306,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efad26fe69acca690800000000000000
-      internalID: -7589468522415990018
+      spriteID: c3b92cbc949ade410800000000000000
+      internalID: 1508047584655219516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_164
+      name: Effect_GFX_164
       rect:
         serializedVersion: 2
         x: 96
@@ -2406,14 +2327,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5db6abc83fe9a8f70800000000000000
-      internalID: 9190332758478187477
+      spriteID: cee972a2633356900800000000000000
+      internalID: 677003626717617900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_173
+      name: Effect_GFX_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e72f677988d073c0800000000000000
+      internalID: -4363749953996118048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce13d2c5f6607250800000000000000
+      internalID: 5940361114223320776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_173
       rect:
         serializedVersion: 2
         x: 240
@@ -2427,14 +2390,203 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81235d16ad812a850800000000000000
-      internalID: 6386694547788083736
+      spriteID: 3d5b392c42be5d420800000000000000
+      internalID: 2654286098520585683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_174
+      name: Effect_GFX_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb878e00ab334d050800000000000000
+      internalID: 5824337092069062843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ffdace3e1d95660800000000000000
+      internalID: 7375156641654505325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_180
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029fef8c34166b80800000000000000
+      internalID: -8402005804467645941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a0902c83a747b0800000000000000
+      internalID: -5240039819185184717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde0264594c8ef020800000000000000
+      internalID: 2377491899874414303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdce2f29859ab1830800000000000000
+      internalID: 4043011288382762203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_185
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ad805e5f52c770800000000000000
+      internalID: 8629564694678317385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_186
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d1b6fcb08279910800000000000000
+      internalID: 1843986603621162305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_189
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7578b50e3be72600800000000000000
+      internalID: 443581739935757691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_190
       rect:
         serializedVersion: 2
         x: 0
@@ -2448,182 +2600,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77b89f86ce21dc410800000000000000
-      internalID: 1498875057567009655
+      spriteID: cb60156222b03ee60800000000000000
+      internalID: 7990242405185029820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_178
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8d6e07a1fc0a12b0800000000000000
-      internalID: -5613159753534509682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_179
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0f02d8b0af9193e0800000000000000
-      internalID: -2048680842832507124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_180
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c834cdac70eba6e30800000000000000
-      internalID: 4497616118560342924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_181
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a867c55d560edb460800000000000000
-      internalID: 7259204902367032970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_182
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fde8aef4ff9c365b0800000000000000
-      internalID: -5376231431755624737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_183
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 96
-        width: 32
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a575f5697867d7ea0800000000000000
-      internalID: -5873408014305765542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_185
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0216b2ac254834d70800000000000000
-      internalID: 9026203569294631200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_189
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5452982d6f9a9220800000000000000
-      internalID: 2493480634883920991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_194
+      name: Effect_GFX_194
       rect:
         serializedVersion: 2
         x: 64
@@ -2637,14 +2621,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a930ebe3288ed9f50800000000000000
-      internalID: 6889918651042759578
+      spriteID: d3cf27e56d36af300800000000000000
+      internalID: 286651298650192957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_195
+      name: Effect_GFX_195
       rect:
         serializedVersion: 2
         x: 80
@@ -2658,14 +2642,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dcf56d046a9efb550800000000000000
-      internalID: 6178914114037243853
+      spriteID: 8ccbae7c6078c5710800000000000000
+      internalID: 1683368823923326152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_196
+      name: Effect_GFX_196
       rect:
         serializedVersion: 2
         x: 96
@@ -2679,14 +2663,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c816fcf6196e2c440800000000000000
-      internalID: 4954776052381475212
+      spriteID: 335b46aed66e6ec40800000000000000
+      internalID: 5541369751284266291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_197
+      name: Effect_GFX_197
       rect:
         serializedVersion: 2
         x: 112
@@ -2700,14 +2684,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af3d9a41026449f00800000000000000
-      internalID: 1122599310721668090
+      spriteID: f15b6dd02441d7a30800000000000000
+      internalID: 4214547100221224223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_198
+      name: Effect_GFX_198
       rect:
         serializedVersion: 2
         x: 128
@@ -2721,14 +2705,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1e98f4cef0c64880800000000000000
-      internalID: -8626995835722752486
+      spriteID: 0b4f23a33652b4310800000000000000
+      internalID: 1390246018082337968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_199
+      name: Effect_GFX_199
       rect:
         serializedVersion: 2
         x: 144
@@ -2742,14 +2726,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de22ff63ca6344e60800000000000000
-      internalID: 7945535755873362669
+      spriteID: ce5daef24fb8fa690800000000000000
+      internalID: -7588692966203795988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_201
+      name: Effect_GFX_201
       rect:
         serializedVersion: 2
         x: 176
@@ -2763,14 +2747,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91c7ffb8cac3c0ec0800000000000000
-      internalID: -3599435290395050983
+      spriteID: 2ec6832530ef28750800000000000000
+      internalID: 6305881718489902306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_202
+      name: Effect_GFX_202
       rect:
         serializedVersion: 2
         x: 192
@@ -2784,14 +2768,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70692475861916a40800000000000000
-      internalID: 5359724908874208775
+      spriteID: 7d253bb2199d75a30800000000000000
+      internalID: 4204067994700305111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_203
+      name: Effect_GFX_203
       rect:
         serializedVersion: 2
         x: 208
@@ -2805,14 +2789,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 933e392718f11a910800000000000000
-      internalID: 1846791963032150841
+      spriteID: 4e303ea32ec722880800000000000000
+      internalID: -8637203824250780700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_204
+      name: Effect_GFX_204
       rect:
         serializedVersion: 2
         x: 224
@@ -2826,14 +2810,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c280e0633a336200800000000000000
-      internalID: 172045203113280199
+      spriteID: 4c5437f4de1c8c5a0800000000000000
+      internalID: -6500732837124946492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_205
+      name: Effect_GFX_205
       rect:
         serializedVersion: 2
         x: 240
@@ -2847,35 +2831,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14a96357ba1c4bfa0800000000000000
-      internalID: -5785786679114163647
+      spriteID: 0c5fb45fdc87a1f70800000000000000
+      internalID: 9158765618190349760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_206
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 240
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2389bf4456616110800000000000000
-      internalID: 1252394683686552364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: envi1_GFX_221
+      name: Effect_GFX_221
       rect:
         serializedVersion: 2
         x: 240
@@ -2889,14 +2852,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47c24a4eaacb34230800000000000000
-      internalID: 3621945967502437492
+      spriteID: 5fa54d45ed75feab0800000000000000
+      internalID: -4976662450803549451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_237
+      name: Effect_GFX_237
       rect:
         serializedVersion: 2
         x: 240
@@ -2910,14 +2873,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 225d3f45aae992c00800000000000000
-      internalID: 876406056907167010
+      spriteID: adddbda2ed3955d90800000000000000
+      internalID: -7109613854323384870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_253
+      name: Effect_GFX_253
       rect:
         serializedVersion: 2
         x: 240
@@ -2931,14 +2894,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cd4ee686951e6280800000000000000
-      internalID: -9048270865087705658
+      spriteID: c58dec0b348576d00800000000000000
+      internalID: 965837692846659676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: envi1_GFX_269
+      name: Effect_GFX_269
       rect:
         serializedVersion: 2
         x: 240
@@ -2952,8 +2915,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9533a092697491680800000000000000
-      internalID: -8783910887950240935
+      spriteID: aa5bcf64accb4cb70800000000000000
+      internalID: 8918460739060807082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GFX_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 240
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb41dccefa98ada0800000000000000
+      internalID: -5933322089911989325
       vertices: []
       indices: 
       edges: []
